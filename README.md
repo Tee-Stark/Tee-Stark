@@ -17,8 +17,8 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about Node.js/Express.js, C++, Databases, DevOps, and APIs
 - 📫 How to reach me:
 
-* Twitter: (@TStark**)[https://twitter.com/TStark**],
-* LinkedIn: (Timilehin Omolana)[https://linkedin.com/in/timilehinomolana-5767371b7/]
+* Twitter: [@TStark__](https://twitter.com/TStark__),
+* LinkedIn: [Timilehin Omolana](https://linkedin.com/in/timilehinomolana-5767371b7/)
 
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: -->
