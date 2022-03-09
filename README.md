@@ -24,5 +24,5 @@ Here are some ideas to get you started:-->
 <!-- - ⚡ Fun fact: -->
 
 [![T-Stark's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tee-Stark&show_icons=true&theme=tokyonight)](https://github.com/tee-stark/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tee-Stark&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tee-Stark&theme=tokyonight)
