@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 -->
 #### I'm T-Stark, the one and only Spirit that dwells in cyberspace👻. Lots of fun stuff to explore, just walk with me 🌠🤩. I'm a software engineer and DevOps engineer ☁️ + technical writer✍ & Web 3.0 enthusiast. I write JavaScript, C++, and Golang to build secure and scalable server-side applications on the web🌐. Also write Solidity for smart contracts on the Ethereum blockchain. 
 
-- 🔭 I’m currently working on Wired - A platform to allow for easier connection and communication for events organizers and attendees.
+- <!--🔭 I’m currently working on Wired - A platform to allow for easier connection and communication for events organizers and attendees.-->
 - 🌱 I’m currently learning Cloud Engineering & Blockchain development + web 3.0
 - 👯 I’m looking to collaborate on open source projects(As many as possible!)
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me:
 
 * Twitter: [@TStark__](https://twitter.com/TStark__),
-* LinkedIn: [Timilehin Omolana](https://linkedin.com/in/timilehinomolana-5767371b7/)
+* LinkedIn: [Timilehin Omolana](https://linkedin.com/in/timmyomolana/)
 
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: -->
