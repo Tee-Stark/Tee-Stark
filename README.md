@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 <!--
 ![T-Stark the CyberSpirit 👻](https://res.cloudinary.com/events-by-wired/image/upload/v1642948853/cyberspirit_oqfktr.jpg "T. Stark the one and only CyberSpirit... I'm from the order side 🦹")
 -->
-#### I'm T-Stark, the one and only Spirit that dwells in cyberspace👻. Lots of fun stuff to explore, just walk with me 🌠🤩. I'm a software engineer and DevOps engineer ☁️ + upcoming technical writer✍ & Web 3.0 developer. I write JavaScript, C++, and Golang to build secure and scalable server-side applications on the web🌐. Also write Solidity for smart contracts on the Ethereum blockchain. 
+#### I'm T-Stark, the one and only Spirit that dwells in cyberspace👻. Lots of fun stuff to explore, just walk with me 🌠🤩. I'm a software engineer and DevOps engineer ☁️ + technical writer✍ & Web 3.0 enthusiast. I write JavaScript, C++, and Golang to build secure and scalable server-side applications on the web🌐. Also write Solidity for smart contracts on the Ethereum blockchain. 
 
 - 🔭 I’m currently working on Wired - A platform to allow for easier connection and communication for events organizers and attendees.
 - 🌱 I’m currently learning Cloud Engineering & Blockchain development + web 3.0
