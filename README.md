@@ -7,18 +7,20 @@ Here are some ideas to get you started:-->
 <!--
 ![T-Stark the CyberSpirit 👻](https://res.cloudinary.com/events-by-wired/image/upload/v1642948853/cyberspirit_oqfktr.jpg "T. Stark the one and only CyberSpirit... I'm from the order side 🦹")
 -->
-#### I'm T-Stark, the one and only Spirit that dwells in cyberspace👻. Lots of fun stuff to explore, just walk with me 🌠🤩. I'm a software engineer and DevOps engineer ☁️ + technical writer✍ & Web 3.0 enthusiast. I write JavaScript, C++, and Golang to build secure and scalable server-side applications on the web🌐. Also write Solidity for smart contracts on the Ethereum blockchain. 
+#### I'm T-Stark, the one and only Spirit that dwells in cyberspace👻. Lots of fun stuff to explore, just walk with me 🌠🤩. I'm a software engineer and DevOps engineer ☁️ + technical writer✍ & Web 3.0 enthusiast. I write JavaScript, C++, and Golang to build secure and scalable server-side applications on the web🌐. I'm currently exploring the world of distributed systems and flying vehicles (UAVs/Drones)🚀.
 
-- <!--🔭 I’m currently working on Wired - A platform to allow for easier connection and communication for events organizers and attendees.-->
-- 🌱 I’m currently learning Cloud Engineering & Blockchain development + web 3.0
+<!-- 🔭 I’m currently building Atona -->
+- 🌱 I’m currently learning Cloud Engineering & Systems programming (building autopilot software for Drones).
 - 👯 I’m looking to collaborate on open source projects(As many as possible!)
 <!--
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Node.js/Express.js, C++, Databases, DevOps, web 3.0 and APIs
+- 💬 Ask me about Node.js/Express.js, C++, Go, Databases, DevOps, and UAVs.
 - 📫 How to reach me:
 
 * Twitter: [@TStark__](https://twitter.com/TStark__),
 * LinkedIn: [Timilehin Omolana](https://linkedin.com/in/timmyomolana/)
+
+Also read my technical articles and tutorials on MakeUseOf: [Timilehin Omolana](https://makeuseof.com/author/timilehin-omolana)
 
 - 😄 Pronouns: He/Him
 <!-- - ⚡ Fun fact: -->
